@@ -170,10 +170,10 @@ homeFeatureCard() {
 }
 
 buildFeatureList() {
-  List Widget;
+  //List Widget;
   homeFeatures.map((item) => {
     eachFeatureCard(
-      title: item.entries['title']
+      //title: item.entries['title']
     )
   });
 }
