@@ -1,0 +1,1 @@
+Duration routeTransitionDuration = const Duration(milliseconds: 200);
